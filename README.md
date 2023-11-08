@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ...
-- ⚙️ Java 17, Servlet 4.0, HTML5, CSS3, JavaScript(Es6), SpringBoot, react
+- ⚙️ Java 17, Servlet 4.0, HTML5, CSS3, JavaScript(Es6), SpringBoot, react.js 18.2.0, Vue.js 3.0.4
 - 🛠️ Eclipse IDE 2023-06 , VSCode 1.82.2, IntelliJ IDEA 2023.2.3, IntlliJ IDEA 2023.2.4
 - 💾 Mysql 8.0, HeidiSQL 12.5, Oracle Database 19c, Oracle SQL Developer 23.1.0.097
 
 📖 I want to learn at the next step ...
-- 🥺 TypeScript, docker, vue
+- 🥺 TypeScript, docker, nosql
 
 
 
