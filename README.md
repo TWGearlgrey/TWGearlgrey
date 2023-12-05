@@ -4,37 +4,31 @@
 안녕하세요. 웹 개발자가 되기 위해 공부중입니다. <br>
 백엔드뿐만 아니라 풀스택 개발자가 되기 위해 노력하고 있습니다.
 
+## Study
 
-## Tool 🛠
+### Tool 🛠
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_2023.2.4-000000?style=flat&logo=intellijidea&logoColor=white) 
-![is most](https://img.shields.io/badge/is_most-ffffff?style=flat&logoColor=white)
-
+![is most](https://img.shields.io/badge/is_most-ffffff?style=flat&logoColor=white) <br>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE_2023.6-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code_1.82.2-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/STS3-6DB33F?style=flat&logo=spring&logoColor=white)
 
 
-## Skills ⚔
+### Skills ⚔
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Java 17](https://img.shields.io/badge/Java_17-FF9A00?style=flat&logo=java&logoColor=white)
+![Java 17](https://img.shields.io/badge/Java_17-FF9A00?style=flat&logo=java&logoColor=white) <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript_Es6-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![is most](https://img.shields.io/badge/are_most-ffffff?style=flat&logoColor=white)
-
-
-## Database 🏗
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br>
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat&logo=mysql&logoColor=white) 
-![is most](https://img.shields.io/badge/is_most-ffffff?style=flat&logoColor=white)
-
-![Oracle DB](https://img.shields.io/badge/Oracle_Database_19c-F80000?style=flat&logo=oracle&logoColor=white)
 
 
-## Start learning 🏃‍♂️
+### Start learning 🏃‍♂️
 ![react](https://img.shields.io/badge/React_18.2.0-263238?style=flat&logo=react)
-![vue.js](https://img.shields.io/badge/vue.js_3.0.4-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![vue.js](https://img.shields.io/badge/vue.js_3.0.4-4FC08D?style=flat&logo=vuedotjs&logoColor=white) <br>
+![Oracle DB](https://img.shields.io/badge/Oracle_Database_19c-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_v7.0.3-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_7.2.3-DC382D?style=flat&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_7.2.3-DC382D?style=flat&logo=redis&logoColor=white) <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
