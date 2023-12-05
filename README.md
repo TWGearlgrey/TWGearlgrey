@@ -1,20 +1,19 @@
 <div align=center>
 
-## introduction 👋
+### introduction 👋
 안녕하세요. 웹 개발자가 되기 위해 공부중입니다. <br>
-백엔드뿐만 아니라 풀스택 개발자가 되기 위해 노력하고 있습니다.
+백엔드, 풀스택 가리지 않고 노력하고 있습니다.
 
-## Study
+### Study
 
-### Tool 🛠
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_2023.2.4-000000?style=flat&logo=intellijidea&logoColor=white) 
-![is most](https://img.shields.io/badge/is_most-ffffff?style=flat&logoColor=white) <br>
+#### Tool 🛠
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_2023.2.4-000000?style=flat&logo=intellijidea&logoColor=white) <br>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE_2023.6-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code_1.82.2-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/STS3-6DB33F?style=flat&logo=spring&logoColor=white)
 
 
-### Skills ⚔
+#### Skills ⚔
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Java 17](https://img.shields.io/badge/Java_17-FF9A00?style=flat&logo=java&logoColor=white) <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript_Es6-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -23,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat&logo=mysql&logoColor=white) 
 
 
-### Start learning 🏃‍♂️
+#### Start learning 🏃‍♂️
 ![react](https://img.shields.io/badge/React_18.2.0-263238?style=flat&logo=react)
 ![vue.js](https://img.shields.io/badge/vue.js_3.0.4-4FC08D?style=flat&logo=vuedotjs&logoColor=white) <br>
 ![Oracle DB](https://img.shields.io/badge/Oracle_Database_19c-F80000?style=flat&logo=oracle&logoColor=white)
@@ -32,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
-## Problem Solving 🕵️‍♀️
+### Problem Solving 🕵️‍♀️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=TWGearlgrey)](https://solved.ac/TWGearlgrey)<br/>
 ![Java 11](https://img.shields.io/badge/used_is-Java_11-FF9A00?style=flat&logo=java&logoColor=white)
 
