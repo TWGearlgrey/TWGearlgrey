@@ -4,7 +4,7 @@
 안녕하세요. 웹 개발자가 되기 위해 공부중입니다. <br>
 백엔드, 풀스택 가리지 않고 노력하고 있습니다.
 
-### Study
+### Study ✍
 
 #### Tool 🛠
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_2023.2.4-000000?style=flat&logo=intellijidea&logoColor=white) <br>
