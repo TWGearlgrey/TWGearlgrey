@@ -19,6 +19,7 @@
 
 #### Skills ⚔
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot_3.1.4-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Java 17](https://img.shields.io/badge/Java_17-FF9A00?style=flat&logo=java&logoColor=white) <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
