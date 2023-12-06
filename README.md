@@ -7,12 +7,12 @@
 ##
 ### My Projects 👨‍💻
 <!-- [팀 프로젝트 모아보기](https://github.com/TWGearlgrey/Project2023/blob/main/README.md) -->
-| Project Name | server | Readme |
-| :---: | :---: | :---: |
-| Project 모아보기 | [![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/TWGearlgrey/Project2023) | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/README.md) |
-| [![Kmarket](https://github.com/TWGearlgrey/Project2023/blob/main/Kmarket/src/main/webapp/images/title_logo.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/Kmarket) | - | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/Kmarket/README.md) |
-| [![LotteON](https://github.com/TWGearlgrey/Project2023/blob/main/LotteON/src/main/resources/static/images/header_logo2.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/LotteON) | [![AWS](https://img.shields.io/badge/AWS-FF9A00?style=flat&logo=amazonaws)](http://52.79.237.168:8080/LotteON/) | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/LotteON/README.md) |
-| [![HelloWorld](https://github.com/TWGearlgrey/Project2023/blob/main/HelloWorld/front/public/header_logo3.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/HelloWorld) | ![test](https://img.shields.io/badge/test_phase...-eeeeee?style=flat) | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/HelloWorld/README.md) |
+| PROJECT | SERVER | INFO | README |
+| :---: | :---: | :---: | :---: |
+| Project 모아보기 | [![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/TWGearlgrey/Project2023) | - | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/README.md) |
+| [![Kmarket](https://github.com/TWGearlgrey/Project2023/blob/main/Kmarket/src/main/webapp/images/title_logo.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/Kmarket) | - | JSP, Servlet 기반 쇼핑몰 프로젝트 | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/Kmarket/README.md) |
+| [![LotteON](https://github.com/TWGearlgrey/Project2023/blob/main/LotteON/src/main/resources/static/images/header_logo2.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/LotteON) | [![AWS](https://img.shields.io/badge/AWS-FF9A00?style=flat&logo=amazonaws)](http://52.79.237.168:8080/LotteON/) | SpringBoot 기반 쇼핑몰 프로젝트 | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/LotteON/README.md) |
+| [![HelloWorld](https://github.com/TWGearlgrey/Project2023/blob/main/HelloWorld/front/public/header_logo3.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/HelloWorld) | ![test](https://img.shields.io/badge/test_phase...-eeeeee?style=flat) | SpringBoot Rest API 기반 프로젝트 | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/HelloWorld/README.md) |
 
 ##
 ### Study ✍
