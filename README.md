@@ -4,6 +4,7 @@
 안녕하세요. 웹 개발자가 되기 위해 공부중입니다. <br>
 백엔드, 풀스택 가리지 않고 노력하고 있습니다.
 
+##
 ### My Projects 👨‍💻
 <!-- [팀 프로젝트 모아보기](https://github.com/TWGearlgrey/Project2023/blob/main/README.md) -->
 | Project Name | server | Readme |
@@ -13,9 +14,8 @@
 | [![LotteON](https://github.com/TWGearlgrey/Project2023/blob/main/LotteON/src/main/resources/static/images/header_logo2.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/LotteON) | [![AWS](https://img.shields.io/badge/AWS-FF9A00?style=flat&logo=amazonaws)](http://52.79.237.168:8080/LotteON/) | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/LotteON/README.md) |
 | [![HelloWorld](https://github.com/TWGearlgrey/Project2023/blob/main/HelloWorld/front/public/header_logo3.png?raw=true)](https://github.com/TWGearlgrey/Project2023/tree/main/HelloWorld) | ![test](https://img.shields.io/badge/test_phase...-eeeeee?style=flat) | [📑](https://github.com/TWGearlgrey/Project2023/blob/main/HelloWorld/README.md) |
 
-
+##
 ### Study ✍
-
 #### Tool 🛠
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_2023.2.4-000000?style=flat&logo=intellijidea&logoColor=white) <br>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE_2023.6-2C2255?style=flat&logo=eclipseide&logoColor=white)
@@ -25,7 +25,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 -->
-
 
 #### Skills ⚔
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -37,7 +36,6 @@
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat&logo=mysql&logoColor=white) 
 
-
 #### Start learning 🏃‍♂️
 ![react](https://img.shields.io/badge/React_18.2.0-263238?style=flat&logo=react)
 ![vue.js](https://img.shields.io/badge/vue.js_3.0.4-4FC08D?style=flat&logo=vuedotjs&logoColor=white) <br>
@@ -46,7 +44,7 @@
 ![Redis](https://img.shields.io/badge/Redis_7.2.3-DC382D?style=flat&logo=redis&logoColor=white) <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
+##
 ### Problem Solving 🕵️‍♀️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=TWGearlgrey)](https://solved.ac/TWGearlgrey)<br/>
 ![Java 11](https://img.shields.io/badge/used_is-Java_11-FF9A00?style=flat&logo=java&logoColor=white)
