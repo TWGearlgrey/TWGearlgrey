@@ -2,7 +2,16 @@
 
 ### introduction 👋
 안녕하세요. 웹 개발자가 되기 위해 공부중입니다. <br>
-기초부터 다시 정진
+기초부터 다시 정진 <br>
+
+<!--
+##
+
+### Education 👨‍🎓
+2023.06~2023.12  (롯데)기업맞춤형 프로젝트 기반 백엔드 자바, 스프링 웹 SW개발자 양성과정 
+[![Notion](https://img.shields.io/badge/Notion-181717?style=flat&logo=notion&logoColor=white)](https://well-berry-cef.notion.site/SW-c2cbf5bd00ea46ce8e7c5a941e9612b9) 
+-->
+
 
 ##
 ### My Projects 👨‍💻
